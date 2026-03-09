@@ -1,0 +1,8 @@
+conda create --name sql_env python=3.11.11
+conda activate sql_env
+pip install pandas
+pip install matplotlib
+pip install -U ipykernel
+pip install -U jupyterlab
+pip install -U notebook
+python -m ipykernel install --user --name=sql_env
