@@ -53,7 +53,7 @@ Aikaterini Vantaraki - Athens University of Economics and Business - Department 
 ### Installation
 Clone the repository:
    ```bash
-   git clone [https://github.com/AikVant/sql_queries.git](https://github.com/AikVant/sql_queries.git)
+   git clone [https://github.com/AikVant/SQL-Movie-Analytics.git](https://github.com/AikVant/SQL-Movie-Analytics.git)
    ```
 ### 🐍 Environment Setup
 It is recommended to use a virtual environment. You can install all dependencies using the provided requirements file:
